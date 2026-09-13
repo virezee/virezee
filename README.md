@@ -93,7 +93,9 @@
 <div align="center">
 	<img height="200" src="https://streak-stats.demolab.com?user=virezee&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=250" alt="streak"/>
 	<br/>
-	<img height="200" src="https://github-stats-extended.vercel.app/api?username=virezee&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=chartreuse-dark" alt="stats"/><img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=virezee&layout=compact&langs_count=16&theme=chartreuse-dark" alt="langs"/></div>
+	<img height="200" src="https://github-stats-extended.vercel.app/api?username=virezee&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=chartreuse-dark" alt="stats"/><img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=virezee&layout=compact&langs_count=16&theme=chartreuse-dark" alt="langs"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
 <div align="center">
 	<a href="https://www.github.com/virezee">
 		<img src="https://img.shields.io/github/followers/virezee?&color=000000&logo=Github&logoColor=000000&style=plastic"/>
